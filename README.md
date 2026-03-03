@@ -36,7 +36,7 @@
 <h3>Car Search Output : </h3>
 <p>Invalid ID Search</p>
 
-![Invalid Car Search Output](https://github.com/sakinasendhi52/Vehicle-Registry-System/blob/main/worngIDSearch.png?raw=true)
+![Invalid Car Search Output](https://github.com/sakinasendhi52/Vehicle-Registry-System/blob/main/wrongIDSearch.png?raw=true)
 
 <p>Valid ID Search</p>
 
